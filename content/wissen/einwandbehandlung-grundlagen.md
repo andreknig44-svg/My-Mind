@@ -22,4 +22,5 @@ das Auswendiglernen einzelner Antworten.
 ## Verlinkt mit
 
 - [[../buecher/atomic-habits|Atomic Habits]]
+- [[sales-1o1-einwandbehandlung-zu-teuer|Sales 1o1 – Einwandbehandlung "zu teuer"]]
 - [[../index|Kontext]]
