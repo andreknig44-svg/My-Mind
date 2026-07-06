@@ -13,6 +13,9 @@ durchklickbare Seite mit [Quartz](https://quartz.jzhao.xyz/).
 - `content/projekte/` – aktive/pausierte Projekte
 - `content/erfolge/` – dokumentierte Erfolge
 - `content/gedanken/` – unsortierte Notizen, werden regelmäßig durchgesehen
+- `content/mindset/` – Mindset-Notizen
+- `content/wissen/` – Wissen/Learnings (Sales-Themen bekommen zusätzlich den Tag `sales`)
+- `content/templates/` – QuickAdd-Vorlagen für neue Notizen (wird nicht veröffentlicht)
 
 Notizen mit `[[wikilinks]]` verlinken – daraus baut Quartz automatisch die
 interaktive Graph-Ansicht.
