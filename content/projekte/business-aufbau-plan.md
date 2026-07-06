@@ -41,6 +41,38 @@ Praxis bereits **bewiesen** vorhanden ist, zum Angebot machen.
 - Deine eigene Sales-1o1-Aufnahme (bereits in [[../wissen/sales-1o1-einwandbehandlung-zu-teuer|deiner Wissensdatenbank]])
   ist im Grunde bereits das erste Stück Coaching-Content-Material
 
+### Bin ich glaubwürdig genug? (Ich war gut, aber nicht Top-Top-Performer)
+
+Ehrliche Antwort, ohne Beschönigung: **Ja, aber die Behauptung muss die
+richtige sein.** "Ich war der beste Verkäufer" ist nicht deine Behauptung —
+und sollte es auch nicht sein, das wäre angreifbar. Deine tatsächliche,
+belegte Fähigkeit ist eine andere und für ein Coaching-Business sogar
+wertvollere: **du hast dein aktuelles Team Monat für Monat nachweislich besser
+gemacht.** Andere zu entwickeln ist eine eigene Fähigkeit, die nicht
+automatisch mit persönlichen Top-Zahlen kommt — oft sind die besten
+Einzelverkäufer sogar schlechtere Trainer, weil ihnen nicht bewusst ist,
+*warum* sie gut sind. Führe deshalb konsequent mit der Team-Verbesserung als
+Beweis, nicht mit einem persönlichen Ranking.
+
+**Differenzierung gegenüber den vielen anderen Coaches da draußen:**
+
+1. Nachweisbare **Team-Ergebnisse** statt nur persönlicher Verkaufszahlen
+2. **Öffentlich dokumentierter Aufbau** (Skyr-Challenge-Stil) — die meisten
+   Coaches zeigen nur das fertige Bild, du zeigst den echten Prozess live,
+   inklusive Fehler und Lernkurve
+3. Deine **mitreißende, emotionale Präsentation** — in einem übersättigten
+   Coaching-Markt ist oft das WIE entscheidender als das WAS
+
+### Plattform-Aufteilung: Instagram/TikTok = Content, LinkedIn = Netzwerken
+
+Bewusste Trennung nach Funktion, nicht nach Bauchgefühl:
+
+- **Instagram/TikTok**: kurze Videos, dokumentierter Aufbau, breite
+  Reichweite — hier spielt deine mitreißende Art am stärksten
+- **LinkedIn**: die eigentliche Zielgruppe (Sales-Mitarbeiter, Team-Leads,
+  Unternehmen) sitzt hier beruflich — hier passiert das direkte Netzwerken/
+  Anschreiben und ein wöchentlicher inhaltlicher Beitrag
+
 ### Der Fehler, den wir bewusst vermeiden
 
 Laut Recherche scheitern die meisten Creator-zu-Business-Übergänge, weil sie
