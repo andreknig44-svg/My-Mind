@@ -170,6 +170,7 @@ Basierend auf recherchierten, belegten Prinzipien der Verhaltenspsychologie:
 
 - [[daily-tracker|Daily-Tracker]]
 - [[video-drehbuecher|Video-Drehbücher (Hook, Schnitt, Text-Overlays, Hashtags)]]
+- [[ki-manager-setup|KI-Manager Setup]]
 - [[../wissen/sales-1o1-einwandbehandlung-zu-teuer|Sales 1o1 – Einwandbehandlung]]
 - [[../wissen/einwandbehandlung-grundlagen|Einwandbehandlung – Grundlagen]]
 - [[../wissensvideos/personal-brand-content-creator-uebersicht|Übersicht: Personal Brand & Content Creator]]
