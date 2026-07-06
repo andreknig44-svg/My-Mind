@@ -15,6 +15,7 @@ durchklickbare Seite mit [Quartz](https://quartz.jzhao.xyz/).
 - `content/gedanken/` – unsortierte Notizen, werden regelmäßig durchgesehen
 - `content/mindset/` – Mindset-Notizen
 - `content/wissen/` – Wissen/Learnings (Sales-Themen bekommen zusätzlich den Tag `sales`)
+- `content/wissensvideos/` – gelernter Content aus Videos/Kursen: Link + Dateien/Sprachnachrichten als Anhang, dazu Zusammenfassung und Transkript zum Nachlesen
 - `content/templates/` – QuickAdd-Vorlagen für neue Notizen (wird nicht veröffentlicht)
 
 Notizen mit `[[wikilinks]]` verlinken – daraus baut Quartz automatisch die
