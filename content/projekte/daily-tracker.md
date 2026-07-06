@@ -87,4 +87,5 @@ baust du dir deine Aufgaben selbst, sobald die Routine sitzt.
 ## Verlinkt mit
 
 - [[business-aufbau-plan|Business-Aufbau-Plan]]
+- [[video-drehbuecher|Video-Drehbücher (Hook, Schnitt, Text-Overlays, Hashtags)]]
 - [[../wissen/sales-1o1-einwandbehandlung-zu-teuer|Sales 1o1 – Einwandbehandlung]]
