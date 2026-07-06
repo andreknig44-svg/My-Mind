@@ -105,6 +105,33 @@ eine tägliche Content-Routine — noch **nichts verkaufen**.
 **Meilenstein Ende Phase 1**: Nische steht, 12–20 Content-Stücke veröffentlicht,
 10+ echte Gespräche mit der Zielgruppe geführt.
 
+## Phase 1.5 – YouTube dazunehmen (ab Woche 3–4, erst wenn Phase 1 läuft)
+
+**Ziel**: Long-Form-Content als zweite Ebene aufbauen — **erst**, wenn die
+tägliche Kurzform-Routine nachweislich 2–4 Wochen durchgehalten wurde, nicht
+vorher. Zusätzlicher Kanal vor stabiler Basis würde das knappe Tagesminimum
+verwässern.
+
+**Warum YouTube zusätzlich sinnvoll ist**: Für ein hochpreisiges Coaching-
+Angebot (1.500–3.000 €) überzeugt Tiefe/Erklärung stärker als ein
+30-Sekunden-Hook — genau das leistet längerer Content besser als Kurzform.
+YouTube-Videos sind zudem evergreen und über die Suche dauerhaft auffindbar,
+anders als kurzlebiger TikTok/Reels-Content.
+
+**Wie es eingebaut wird, ohne Mehraufwand von null**:
+- Bestehende Kurzvideos und Themen (z.B. aus den
+  [[video-drehbuecher|Video-Drehbüchern]] und der
+  [[../wissen/sales-1o1-einwandbehandlung-zu-teuer|Sales-1o1-Notiz]]) zu
+  längeren, ausführlicheren Videos ausbauen, statt komplett neue Themen zu
+  erfinden
+- Frequenz bewusst niedrig halten: **1 YouTube-Video pro Woche** reicht als
+  Einstieg, keine tägliche Verpflichtung wie bei Instagram/TikTok
+- Instagram/TikTok bleibt der tägliche Reichweiten-/Vertrauens-Motor,
+  YouTube wird der Tiefe-/Konversions-Kanal für das höherpreisige Angebot
+
+**Meilenstein**: Erste 4 YouTube-Videos veröffentlicht, sobald die
+Kurzform-Routine stabil läuft.
+
 ## Phase 2 – Erste zahlende Kunden (Woche 5–8): Verkaufen vor dem Bauen
 
 **Ziel der Phase**: 3–5 zahlende Beta-Kunden, bevor ein fertiges Programm
